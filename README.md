@@ -1,2 +1,2 @@
 # bitshot
-Scratch Discord Bot
+Named Shit Bot, used for a friendly amount of commands!
