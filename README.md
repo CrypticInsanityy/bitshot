@@ -1,0 +1,2 @@
+# bitshot
+Scratch Discord Bot
