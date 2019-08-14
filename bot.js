@@ -3,7 +3,7 @@ const Discord = require("discord.js");
 const fs = require("fs");
 const bot = new Discord.Client({disbleEveryone: true});
 bot.commands = new Discord.Collection();
-const prefix = "~"
+
 fs.readdir("./commands/", (err, file) => {
 
   if(err) console.log(err);
