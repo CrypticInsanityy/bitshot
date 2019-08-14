@@ -11,7 +11,6 @@ client.on('ready', () => {
 });
 
  bot.on("ready", async () => {
-  console.log(`${bot.user.username} is online!`);
   bot.user.setActivity("Brazzers HD!", {type:"WATCHING"});
 });
 
