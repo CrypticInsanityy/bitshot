@@ -7,12 +7,9 @@ const client = new Discord.Client();
 client.on('ready', () => {
 
     console.log('I am ready!');
-
-});
-
- bot.on("ready", async () => {
   bot.user.setActivity("Brazzers HD!", {type:"WATCHING"});
 });
+
 
 client.on('message', message => {
 
